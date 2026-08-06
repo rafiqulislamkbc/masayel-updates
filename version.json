@@ -1,4 +1,8 @@
 {
-  "version": 2,
-  "update_url": "https://raw.githubusercontent.com/username/masayel-updates/main/new_data.json"
+  "app_info": {
+    "latest_version": "2.0",
+    "force_update": false,
+    "update_message": "নতুন মাসআলা ও ডাটা যুক্ত করা হয়েছে! আপডেট করে নিন।",
+    "apk_download_url": "https://raw.githubusercontent.com/rafiqulislamkbc/masayel-updates/main/new_data.json"
+  }
 }
